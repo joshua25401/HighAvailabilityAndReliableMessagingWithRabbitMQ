@@ -112,6 +112,8 @@ docker rm -f worker2
 #### RabbitMQ Documentation : https://www.rabbitmq.com/documentation.html
 #### Retry Mechanism : https://howtodoinjava.com/spring-boot2/spring-retry-module/
 
+### :heart::heart:DEMO APPLICATION : https://www.youtube.com/watch?v=hWz8KvJRIy8
+
 &nbsp;
 &nbsp;
 &nbsp;
